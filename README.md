@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://imgur.com/a/Nf4AoGu">
+   <img src="https://hizliresim.com/okdd4ms">
 </p>
 
 
