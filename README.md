@@ -34,6 +34,7 @@ This repository contains code developed at **42 Istanbul Common Core**, from **0
 | [get_next_line](https://github.com/koraymullaoglu/get_next_line) | <img src="https://img.shields.io/github/languages/top/koraymullaoglu/get_next_line"/> | <img src="https://img.shields.io/badge/112%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/koraymullaoglu/get_next_line" /> | `3 peers` `15 mins` |
 | *born2beroot* | <img src="https://img.shields.io/badge/shell-100%25-blue"/> | <img src="https://img.shields.io/badge/115%20%2F%20100-success"/> |  | `3 peers` `1 hour` |
 | [pipex](https://github.com/koraymullaoglu/pipex) | <img src="https://img.shields.io/github/languages/top/koraymullaoglu/pipex"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/koraymullaoglu/pipex"/> | `3 peers` `30 mins` |
+| [push_swap](https://github.com/koraymullaoglu/push_swap) | <img src="https://img.shields.io/github/languages/top/koraymullaoglu/push_swap"/> | <img src="https://img.shields.io/badge/94%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/koraymullaoglu/push_swap"/> | `3 peers` `45 mins` |
 
 
 
