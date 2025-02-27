@@ -48,9 +48,9 @@ This repository contains code developed at **42 Istanbul Common Core**, from **0
 ## EXAMS
 <div align="center">
 
-| Exam Rank | Language | Finish Date | Grade | Time |
-| :--- | :--- | :--- | :--- | :--- |
-| Exam 02 | `C` | 05-12-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
+| Exam Rank | Language | Finish Date | Grade | Time | Retry |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Exam 02 | `C` | 05-12-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` | `0` | 
 
 
 </div>
