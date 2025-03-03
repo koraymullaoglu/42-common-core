@@ -1,4 +1,4 @@
-<h1 align="center">42 Common Core Projects</h1>
+<h1 align="center">42 Common Core Progress</h1>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/status-learner%20-%2312bab9?style=flat-square"/>
