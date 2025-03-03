@@ -1,7 +1,4 @@
-<p align="center">
-   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_common_core.png">
-</p>
-
+<h1 align="center">42 Common Core Projects</h1>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/status-learner%20-%2312bab9?style=flat-square"/>
